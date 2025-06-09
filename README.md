@@ -1,4 +1,5 @@
 //English//
+
 my work is a video game store, where you can see:
 start with a recommended game
 an envelope of us where a little is said about what the store is
