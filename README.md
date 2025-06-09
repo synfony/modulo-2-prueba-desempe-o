@@ -15,8 +15,11 @@ to run my website you must follow these instructions:
   2-start the file called index.html
 
 Coder: Wilson Esteban Delgado Molano 
+
 Clan: cienaga
+
 gmail: wilsondelgado890@gmail.com
+
 identity document: 1129543765
 
 //Español//
@@ -37,6 +40,9 @@ para ejecutar mi pagina web debes seguir estas instrucciones:
   2-iniciar el archivo llamado index.html
 
 Coder: Wilson Esteban Delgado Molano 
+
 Clan: cienaga
+
 gmail: wilsondelgado890@gmail.com
+
 documento de identidad: 1129543765
