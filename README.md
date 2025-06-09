@@ -1,4 +1,4 @@
-//ingles//
+//English//
 my work is a video game store, where you can see:
 start with a recommended game
 an envelope of us where a little is said about what the store is
@@ -19,7 +19,7 @@ Clan: cienaga
 gmail: wilsondelgado890@gmail.com
 identity document: 1129543765
 
-//español//
+//Español//
 
 mi trabajo es una tienda de videojuegos, en donde podras ver:
 el inicio con un juego recomendado
